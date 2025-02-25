@@ -1,0 +1,1 @@
+json_file = open("emotiondetector.json", "r") 
